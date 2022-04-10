@@ -3,6 +3,8 @@
  * 2. npm install firebase
  * 3. create firebase.init.js file and copy firebase init with config from firebase project settings
  * 4. goto authentication and enable email password login
+ * 5. Create Login, SIgnup component, setup route
+ * 6.attach form field handler and form submit handler
  */
 
 /**
