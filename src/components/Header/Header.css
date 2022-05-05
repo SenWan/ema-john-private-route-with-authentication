@@ -17,3 +17,15 @@
 .header a:hover{
     color: orange;
 }
+
+.signOutButton{
+    margin-left: 5px;
+    font-size: 17px;
+    background-color: #1C2B35;
+    color: #FFFFFF;
+    border: none;
+}
+
+.signOutButton:hover{
+    color: orange;
+}
