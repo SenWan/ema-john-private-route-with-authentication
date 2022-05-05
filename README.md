@@ -1,6 +1,9 @@
 # Live website(firebase)
 [https://ema-john-simple-a4304.web.app/](https://ema-john-simple-a4304.web.app/)
 
+# Live website(netlify)
+[https://senwan-emajohn-authentication.netlify.app/](https://senwan-emajohn-authentication.netlify.app/)
+
 ## project description
 * Here we used private route with email and password authentication
 ## steps
